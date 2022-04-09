@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Devematrix/Devematrix/icons/Devematrix.png">
+  <img src="https://github.com/Devematrix/Devematrix/icons/DEVEMATRIX.png">
 </p>
 
 <!--
