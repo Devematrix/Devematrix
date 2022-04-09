@@ -2,7 +2,7 @@
   <img src="https://github.com/Devematrix/Devematrix/blob/main/icons/DEVEMATRIX.png?raw=true" height="70">
   <br />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Devematrix">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devematrix&hide_border=true&show_icons=true">
   
  <br />
   Hey there! I'm Devematrix. I make software.
