@@ -22,9 +22,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Ideas 💡
+## Me 💡💡💡
 > I'm currently working on ...
 - Devbox app store for RPi
 
 > I'm currently learning ...
 - Bash!
+
+> I'm lookung to collaborate on ...
+- Pi-Apps, PiKISS. Might request Devbox to be added.
+
+> Fun fact ...
+- [FUNFACT]
+
+[FUNFACT]: I'm a person!
