@@ -3,6 +3,7 @@
   <br />
   
   <img src="https://github-readme-stats.vercel.app/api?username=Devematrix&hide_border=true&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devematrix&hide_border=true&show_icons=true">
   
  <br />
   Hey there! I'm Devematrix. I make software.
