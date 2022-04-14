@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 > Fun fact ...
 - [FUNFACT]
 
-[FUNFACT]: I'm a person!
+[FUNFACT](I'm a person!)
