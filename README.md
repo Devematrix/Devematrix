@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 - Pi-Apps, PiKISS. Might request Devbox to be added.
 
 > Fun fact ...
-- [FUNFACT]
+- My fun fact is: [fun fact]!
 
-[FUNFACT](I'm a person!)
+[fun fact]: I'm a person!
